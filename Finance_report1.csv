@@ -1,0 +1,31 @@
+Account,Value (Millions of Dollars)
+"Income Statement - For the Year Ended December 31, 2024",
+Interest Income,
+Interest on Loans,5000
+Interest on Investment Securities,1000
+Other Interest Income,500
+Total Interest Income,6500
+Interest Expense,
+Interest on Deposits,1500
+Interest on Borrowings,200
+Other Interest Expense,100
+Total Interest Expense,1800
+Net Interest Income,4700
+Non-Interest Income,
+Fee Income,1200
+Trading Revenue,800
+Other Non-Interest Income,300
+Total Non-Interest Income,2300
+Total Operating Income,7000
+Non-Interest Expense,
+Salaries and Employee Benefits,2000
+Occupancy Expense,300
+Other Operating Expenses,700
+Total Non-Interest Expense,3000
+Provision for Credit Losses,400
+Income Before Income Taxes,3600
+Income Taxes,800
+Net Income,2800
+Key Metrics,
+"Net Interest Margin (NIM) - Assuming Average Earning Assets of 50,000",9.40%
+"Return on Assets (ROA) - Assuming Average Assets of 60,000",4.67%
